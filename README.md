@@ -1,4 +1,4 @@
-# dbehaikudemo
+# Git ops test with Azure Arc
 Guest book application for demo
 
 
